@@ -1,0 +1,50 @@
+"Hey, vitrivr!" - A Multimodal UI for Video Retrieval
+Inferring User Interests for Passive Users on Twitter by Leveraging Followee Biographies.
+Effective DBMS space management on native Flash
+Spotlytics: How to Use Cloud Market Places for Analytics?
+DeLorean: A Storage Layer to Analyze Physical Data at Scale.
+A Task Completion Engine to Enhance Search Session Support for Air Traffic Work Tasks.
+Collective Entity Linking in Tweets Over Space and Time.
+A New Scheme for Scoring Phrases in Unsupervised Keyphrase Extraction.
+Does Online Evaluation Correspond to Offline Evaluation in Query Auto Completion?
+Predicting Emotional Reaction in Social Networks.
+A Novel Word Embedding Based Stemming Approach for Microblog Retrieval During Disasters.
+Quadtree-based Resource Description Techniques for Spatial Data in Distributed Databases.
+An Experimental Analysis of Different Key-Value Stores and Relational Databases.
+Multitasking in the Digital Age
+Promoting Understandability in Consumer Health Information Search.
+Metadata Management for Data Integration in Medical Sciences - Experiences from the LIFE Study.
+Relational and XML Data Exchange
+Interactive Shape Design
+Counteracting Novelty Decay in First Story Detection.
+A Modular Approach for Non-Distributed Crash Recovery for Streaming Systems.
+The Complete Story of Joins (in HyPer).
+Mobile Robotics for Multidisciplinary Study
+Sentiment Analysis and Opinion Mining
+FPGA-Accelerated Simulation of Computer Systems
+Data Management in the Cloud: Challenges and Opportunities
+Bring Your Language to Your Data with EXASOL.
+Enabling Efficient Agile Software Development of NoSQL-backed Applications.
+Semantic Relations Between Nominals
+Community Detection and Mining in Social Media
+Markov Logic: An Interface Layer for Artificial Intelligence
+Key Issues Regarding Digital Libraries: Evaluation and Integration
+Network Games: Theory, Models, and Dynamics
+Virtual Design of an Audio Lifelogging System: Tools for IoT Systems
+Incentive-Centric Semantic Web Application Engineering
+The Mobile Agent Rendezvous Problem in the Ring
+Quantum Computing for Computer Architects
+P2P Techniques for Decentralized Applications
+Multiantenna Systems for MIMO Communications
+Shared-Memory Synchronization
+Fieldwork for Healthcare: Case Studies Investigating Human Factors in Computing Systems
+A Framework for Argument Retrieval - Ranking Argument Clusters by Frequency and Specificity
+Towards an Argument Mining Pipeline Transforming Texts to Argument Graphs
+Ranking Arguments by Combining Claim Similarity and Argument Quality Dimensions
+Sample Driven Data Mapping for Linked Data and Web APIs
+Quality-Aware Ranking of Arguments
+Conference Indexing in Digital Libraries: A Ranking Model and Case Study on dblp
+Evaluating semantometrics from computer science publications
+FiLiPo: A Sample Driven Approach for Finding Linkage Points between RDF Data and APIs
+The ReCAP Corpus: A Corpus of Complex Argument Graphs on German Education Politics
+Diverse Reviewer Suggestion for Extending Conference Program Committees
