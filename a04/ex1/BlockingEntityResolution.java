@@ -78,7 +78,7 @@ public class BlockingEntityResolution extends Configured implements Tool {
     {
         Configuration conf = getConf();
 
-        Job job = Job.getInstance(conf, "grep");
+        Job job = Job.getInstance(conf, "blockingentityresolution");
         job.setJarByClass(BlockingEntityResolution.class);
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
